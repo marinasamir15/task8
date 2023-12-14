@@ -1,0 +1,30 @@
+#home{
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(../images/360_F_316869849_oHD2qOXRJlZE2Md6SNv0MtvDcgZyHkfv.jpg);
+    background-position: center center;
+    background-size: cover;
+    overflow: auto;
+}
+.home-info{
+    margin-top: 150px;
+}
+.home-info {
+    font-family: 'Poppins', sans-serif;
+    color:wheat;
+}
+.home-info h1{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900 !important;
+}
+
+.btn1{
+    background: #C69774;
+    color:white;
+    transition: all 0.5s;
+    border-width: 2px !important;
+   border-color:black !important;
+}
+.btn1:hover{
+    background-color: wheat !important;
+    color: black !important;
+   
+}
